@@ -1,0 +1,6 @@
+2026-03-19 19:32:45,679 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2026-03-19 19:32:45,701 - feature_engineering - DEBUG - Data loaded from ./data/interim/train_processed.csv
+2026-03-19 19:32:45,710 - feature_engineering - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2026-03-19 19:32:45,803 - feature_engineering - DEBUG - TF-IDF applied and data transformed
+2026-03-19 19:32:46,108 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2026-03-19 19:32:46,198 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
